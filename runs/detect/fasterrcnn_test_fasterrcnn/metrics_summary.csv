@@ -1,0 +1,11 @@
+﻿Metric,Value
+Model Name,fasterrcnn_test
+Model Type,fasterrcnn
+mAP@0.5,0.1105
+Precision,0.4552
+Recall,0.2428
+IoU (Approx),0.3869
+Box Loss,0.9753
+Class Loss,N/A
+Inference FPS,21.9400
+Inference Time per Image (ms),45.5800

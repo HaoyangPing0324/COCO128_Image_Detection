@@ -1,0 +1,12 @@
+fasterrcnn COCO128 fasterrcnn_test模型实验核心指标
+========================================
+模型名称: fasterrcnn_test
+模型类型: fasterrcnn
+mAP@0.5: 0.1105
+Precision（精确率）: 0.4552
+Recall（召回率）: 0.2428
+IoU（近似值）: 0.3869
+Box Loss（框损失）: 0.9753
+Class Loss（分类损失）: N/A
+推理FPS: 21.9400
+单张推理时间（ms）: 45.5800

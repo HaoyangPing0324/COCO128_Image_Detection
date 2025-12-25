@@ -1,0 +1,11 @@
+﻿Metric,Value
+Model Name,ssd_test
+Model Type,ssd
+mAP@0.5,0.2489
+Precision,0.7290
+Recall,0.3414
+IoU (Approx),0.6197
+Box Loss,3.9230
+Class Loss,N/A
+Inference FPS,41.3000
+Inference Time per Image (ms),24.2100

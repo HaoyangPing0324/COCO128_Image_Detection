@@ -1,0 +1,10 @@
+﻿Metric,Value
+Model Name,image_size_896
+mAP@0.5,0.7689
+Precision,0.7859
+Recall,0.6799
+IoU (Approx),0.6536
+Box Loss,1.0989
+Class Loss,1.1100
+Inference FPS,102.3900
+Inference Time per Image (ms),9.7700

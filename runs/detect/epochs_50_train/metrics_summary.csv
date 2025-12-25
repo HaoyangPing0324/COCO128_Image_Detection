@@ -1,0 +1,10 @@
+﻿Metric,Value
+Model Name,epochs_50
+mAP@0.5,0.8381
+Precision,0.8120
+Recall,0.7778
+IoU (Approx),0.7124
+Box Loss,0.8907
+Class Loss,0.7516
+Inference FPS,180.1900
+Inference Time per Image (ms),5.5500
