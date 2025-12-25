@@ -14,6 +14,8 @@
 - 显著性可视化：Grad-CAM/Score-CAM 可视化网络目标关注区域。
 
 ## 文件结构
+## 文件结构
+```bash
 COCO128_Image_Detection/
 ├─ 配置文件/脚本
 │  ├─ config_*.py          # 训练参数配置（epochs/image_size/lr/模型）
